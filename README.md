@@ -29,7 +29,7 @@ If you have any feedback, suggestions, or questions about the recipes or the pro
 
 We hope you have a fantastic time exploring these recipes and cooking up a storm in your kitchen. Happy cooking and bon appétit!
 
-Created with ❤️ by [Narendra Koya]
+Created with ❤️ by [Narendra Koya](https://github.com/NarendraKoya999)
 
 ---
 
