@@ -2,6 +2,11 @@
 
 Welcome to the Odin Recipes Project! This project showcases a collection of delicious recipes that you can try out. From mouth-watering lasagna to delightful seafood and comforting soups, we have a variety of recipes that will satisfy your cravings.
 
+# Live Project Link: odin-recipes: [Odin-Recipe](https://narendrakoya999.github.io/odin-recipes/)
+
+## Languages used
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+
 
 ## Table of Contents
 
