@@ -38,4 +38,7 @@ Created with ❤️ by [Narendra Koya](https://github.com/NarendraKoya999)
 
 ---
 
-[MIT License](./LICENSE)
+## License
+
+This project is licensed under the [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+.
